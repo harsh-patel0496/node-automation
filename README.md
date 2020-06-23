@@ -1,1 +1,1 @@
-echo "# node-automation"
+"# node-automation"
