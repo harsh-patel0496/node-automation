@@ -1,1 +1,1 @@
-"# node-automation"
+# node-automation
